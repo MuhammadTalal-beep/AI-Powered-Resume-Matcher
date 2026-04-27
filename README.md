@@ -37,13 +37,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ## 👥 Team Members
-**Muhammad Talal - Project Lead*
+*Muhammad Talal - Project Lead*
 
-**Muhammad Asif*
+*Muhammad Asif*
 
-**Adeel Malik*
+*Adeel Malik*
 
-**Nayyab Rabia*
+*Nayyab Rabia*
 
 ## 📜 License
 This project is licensed under the MIT License.
