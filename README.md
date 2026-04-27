@@ -20,17 +20,14 @@ An intelligent, full-stack recruitment tool designed to automate resume screenin
 **Environment:** VS Code
 
 ## 📋 Getting Started
-### Clone the repository:
-
-'''Bash
+### Clone the repository
+```bash
 git clone https://github.com/your-username/ai-resume-matcher.git
-### Install dependencies:
-
-'''Bash
+Install dependencies
+Bash
 pip install -r requirements.txt
-### Run the application:
-
-'''Bash
+Run the application
+Bash
 streamlit run app.py
 ## 👥 Team Members
 **Muhammad Talal - Project Lead**
